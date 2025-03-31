@@ -1,7 +1,7 @@
 ## 👋 Welcome to my GitHub Profile! 🇯🇵✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4cTNpZXFvNmU4c3E0Y3p0NXFvazd4bHR6dGJpYnRza3ptNjJ4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" alt="Coding GIF">
 </p>
 
 ### 🚀 About Me
