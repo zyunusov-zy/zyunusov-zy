@@ -6,10 +6,10 @@
 
 ### 🚀 About Me
 - 🎯 Passionate **Full Stack Developer** | **Django & React Enthusiast**
-- 🌱 Currently learning **Advanced Django, DRF, and Full-Stack Web Development**
+- 🌱 Currently learning **Advanced Django, React, and Full-Stack Web Development**
 - 🎨 Love **Anime, Japan Culture, and Technology**
 - 🎯 Open to **Internships & Collaboration Opportunities**
-- 🎮 Fun Fact: I love **coding, anime, and sushi! 🍣**
+- 🎮 Fun Fact: I love **coding, anime, and video games!**
 
 ---
 
@@ -34,14 +34,17 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### Coding Vibes
+### Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJnMzhwZzZsdmlpbndqMnlpZW85NWhmdTVlajd0MTcyZm9uYmZ0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" width="400" alt="Anime Coding GIF">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4bWJubHVibm93ZndmOGxubGJhbHRkcjhwaG4wZnVpNjk1bzdydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Anime Keyboard GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2MGY3bDBhNGZqN212OWQ3N3Rzc2ExMW16ejA2bzUzZTFoYmMyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfeBLe1xqGHNZU6LOL/giphy.gif" width="400" alt="Anime Coding GIF">
+  <img src="https://tenor.com/ru/view/cowboy-bebop-bang-spike-spiegel-spike-spike-cowboy-bebop-gif-18745491" width="400" alt="Anime Keyboard GIF">
 </p>
 
 ---
@@ -49,8 +52,8 @@
 ### 🌟 Connect With Me
 <p align="center">
   <a href="https://github.com/zyunusov-zy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/zafarbek-yunusov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="zafarbekyunusov693@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
