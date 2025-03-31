@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub Profile! 🇯🇵✨
+## 👋 Welcome to my GitHub Profile! ✨
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
