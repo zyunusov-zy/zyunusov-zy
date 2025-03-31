@@ -1,7 +1,9 @@
 ## 👋 Welcome to my GitHub Profile! 🇯🇵✨
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/zyunusov-zy" alt="42 School Stats">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/zyunusov" alt="42 School Stats">
+  </a>
 </p>
 
 
