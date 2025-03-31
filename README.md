@@ -55,7 +55,3 @@
   <a href="https://linkedin.com/in/zafarbek-yunusov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="zafarbekyunusov693@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-⭐️ From [@zyunusov-zy](https://github.com/zyunusov-zy)
