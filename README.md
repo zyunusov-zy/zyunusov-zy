@@ -43,7 +43,7 @@
 
 ### Vibes
 <p align="center">
-  <img src="https://pin.it/3oRXYnwGR" width="400" alt="Anime Coding GIF">
+  <img src="https://i.pinimg.com/originals/08/78/fb/0878fb120eebc7fe4d2cfe1a6412f680.gif" width="400" alt="Anime Coding GIF">
   <img src="https://tenor.com/ru/view/cowboy-bebop-bang-spike-spiegel-spike-spike-cowboy-bebop-gif-18745491" width="400" alt="Anime Keyboard GIF">
 </p>
 
