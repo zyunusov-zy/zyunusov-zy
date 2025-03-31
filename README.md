@@ -1,8 +1,9 @@
 ## 👋 Welcome to my GitHub Profile! 🇯🇵✨
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" alt="Coding GIF">
+  <img src="https://badge.mediaplus.ma/darkblue/zyunusov-zy" alt="42 School Stats">
 </p>
+
 
 ### 🚀 About Me
 - 🎯 Passionate **Full Stack Developer** | **Django & React Enthusiast**
