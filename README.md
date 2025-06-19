@@ -10,9 +10,8 @@
 ### 🚀 About Me
 - 🎯 Passionate **Full Stack Developer** | **Django & React Enthusiast**
 - 🌱 Currently learning **Advanced Django, React, and Full-Stack Web Development**
-- 🎨 Love **Anime, Japan Culture, and Technology**
 - 🎯 Open to **Internships & Collaboration Opportunities**
-- 🎮 Fun Fact: I love **coding, anime, and video games!**
+- 🎮 Fun Fact: I love **coding, and video games!**
 
 ---
 
